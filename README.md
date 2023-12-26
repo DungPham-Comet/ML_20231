@@ -1,6 +1,6 @@
 ## Clone project:
 ```
-git clone https://github.com/nguyenvanhao1209/ML20231.git
+git clone https://github.com/DungPham-Comet/ML_20231
 ```
 
 ## Download Anaconda follow this link: 
